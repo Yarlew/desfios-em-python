@@ -6,3 +6,6 @@ elif nota >= 4:
       print('recuperação')
 else:
       print('reprovado/a')
+
+
+
