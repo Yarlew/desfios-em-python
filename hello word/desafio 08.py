@@ -8,6 +8,6 @@ else:
 
    #juntei oque fiz no desafio 06, com desafio 07 para aparecer um nome personalizado na frase final
 
-
+   #login=café    senha=biru
 
 
