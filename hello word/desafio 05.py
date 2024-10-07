@@ -18,6 +18,5 @@ print(f'esse conjunto tem numeros e letras? {nm.isalnum()}')
 print(f'esse conjunto so tem numeros? {nm.isnumeric()}')"""
 
 
-
-
-
+nm=input('bsbsb')
+print(type=nm)
