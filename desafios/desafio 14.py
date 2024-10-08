@@ -1,6 +1,6 @@
-real=int(input('quanto você tem? '))
+real=float(input('quanto você tem? '))
 
-dolar=real//5.49
+dolar=real/5.49
 
 print(f'você pode trocar {real} por {dolar}')
 
