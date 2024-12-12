@@ -1,7 +1,6 @@
-#calcuradora feita 100% sem chat gpt...
+import math
 
-operação=input('selecione a operação: ')
+numero_pedido=float(input('digite um numero real: '))
+numero_certo=math.floor(numero_pedido)
 
-while True:
-    if operação == (1):
-        
+print(f'a resposta é {numero_certo}')
