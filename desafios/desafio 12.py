@@ -1,8 +1,5 @@
 metros=float(input('digite uma quantidade de metros '))
 
-
-
-
 decimetros=metros*10
 centimetros=metros*100
 milimetros=metros*1000
