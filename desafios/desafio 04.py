@@ -11,7 +11,7 @@ if corr == 'sim' :
 elif corr == 'não' :
     print('que pena, vamos tentar novamente.')
 else:
-    print('
+    print('')
           
 #modifiquei o desafio 03, adicionando uma interface de pergunta apos o calculo, perguntando se a resposta esta correta. dependendo da resposta do usuario, a resposta do programa pode mudar.
 
